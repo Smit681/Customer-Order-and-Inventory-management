@@ -1,0 +1,13 @@
+//==============================================
+// Project       : MS3
+//==============================================
+// Name          : Smit Shah
+// Student Number: 116605205
+// Email         : syshah3@myseneca.ca
+//
+// Section       : ZAA         
+//==============================================
+
+The final project consisted of three modules. It was a big project but thank you Prof. Asam for assisting at every stage and explaining all the modules correctly. This project tested many of C++ object oriented skills to practice and the main goal of the program was to develop a simulation of an assembly line with any number of stations. The three milestones helped me guide through implementation, debuggin and execution. I can understand now clearly that how dividing a big project into smaller pieces helps a lot.
+
+Many errors were hard to solve but once you apply the right logic, they seemed easy. I had to use different algorithms as we moved from one milestone to other and I had to handle the scope of objects to access variables in the project. This was pretty complex and the other complex part was handling typecase of different objectss and handling errors. We also creeated several complex constructors and destructors. Throughout the whole project, I learned to model relationships between classes using containers, inheritance heirarchies and polymorphism and we also wrote the code that execute on multiple threads. I also learned more on the STL function and linked lists and stack.
